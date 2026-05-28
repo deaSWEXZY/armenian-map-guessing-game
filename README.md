@@ -1,4 +1,5 @@
 # armenian-map-guessing-game
 
-How many regions you are able to guess?
+Can you guess all the regions of Armenia?
 
+Created by: *swexzy.*
